@@ -8,7 +8,7 @@ A Beginer guide for using MongoDB and NodeJs
 - How to set up your local environment
 - Basic CRUD operations
 - Writing good schemas
-- Mongo3T is a great hack!
+- Robo3T is a great hack!
 
 # Introduction
 ## Step 1 
