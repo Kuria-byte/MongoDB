@@ -28,7 +28,7 @@ The documentation is really great refrence source and guide if you choose this o
 
 ## Alternative
 ### Download Robo 3T
-is a GUI and IDE for developers and data engineers who work with MongoDB. Data management features such as in-place editing and easy database connections(In this case I used Robo 3T for convinience and simplicity)
+This is a GUI and IDE for developers and data engineers who work with MongoDB. Data management features such as in-place editing and easy database connections(In this case I used Robo 3T for convinience and simplicity)
 
 ## Step 2 
 -Now we are all set up.Two more things to do to initialize our project.
@@ -38,7 +38,7 @@ is a GUI and IDE for developers and data engineers who work with MongoDB. Data m
 
 ## Step 3
 Using your code editor (Visual studio is a great recommendationn).
-install Mongoose and MongoDB using npm or Yarn.
+Install Mongoose and MongoDB using npm or Yarn.
 > npm install mongoose mongodb
 
 - Now let's start coding:
