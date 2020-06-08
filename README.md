@@ -131,6 +131,8 @@ Fruit.insertMany([banana, kiwi,passion], function(err) {
     }
 });
 ```
+If you check your Database in Robo3T you should have something similar.
+![Fruitsdb](https://user-images.githubusercontent.com/61579772/84008805-ecc0a400-a9a4-11ea-98c3-aca475c92975.jpg)
 
 
 ## Step 7
