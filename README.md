@@ -164,7 +164,7 @@ Fruit.deleteOne({ _id: "5e8c60194e961515c44fda45" }, function(err) {
 });
 ```
 - You: Hold up🤯!wait,what is all this stuff where did you get this from,what is that long ID😟😭
-- Me: Don't let this stuuf scare you,let me break it down
+- Me: Don't let this stuff scare you,let me break it down
 - You: Go Ahead..
 - Me: The ```Fruit.updateOne``` function goes through our many Fruits and updates the review of the fruit with the matching Id.
 - You: Where did you get the ID
