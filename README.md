@@ -49,7 +49,7 @@ install Mongoose and MongoDB using npm or Yarn.
 // jshint esversion:6 
 
 const mongoose = require('mongoose'); //open database
-mongoose.connect('mongodb://localhost:3000/fruitsDB', { useNewUrlParser: true, useUnifiedTopology: true });
+mongoose.connect('mongodb://localhost:27017/fruitsDB', { useNewUrlParser: true, useUnifiedTopology: true });
 
 const fruitSchema = new mongoose.Schema({
     name: {
