@@ -1,8 +1,10 @@
 # MongoDB & NodeJs
-A Beginer guide for using MongoDB and NodeJs
+![mn](https://user-images.githubusercontent.com/61579772/84010000-9fddcd00-a9a6-11ea-935f-dde69af40a4d.png)
+
+A Beginer tutorial guide for using MongoDB and NodeJs
 - At the end of this you should be able to setup a MongoDb databse and perform basic CRUD operations using Node.JS,and a couple of tricks up yoour sleeve too.
 
-## Objective
+## What You'll Learn🤷‍♂️
 - How to configure and setup NodeJS to a MongoDb Database
 - How Mongoose helps in modelling elegant mongodb objectfor node.js
 - How to set up your local environment
@@ -27,7 +29,7 @@ The documentation is really great refrence source and guide if you choose this o
 -https://docs.atlas.mongodb.com/getting-started/
 
 ## Alternative
-### Download Robo 3T
+### Download Robo 3T✔
 This is a GUI and IDE for developers and data engineers who work with MongoDB. Data management features such as in-place editing and easy database connections(In this case I used Robo 3T for convinience and simplicity)
 
 ## Step 2 
@@ -87,7 +89,7 @@ const passion = new Fruit({
 });
 apple.save().then(() => console.log('New Fruit added'));;
 ```
-## Step 5
+## Step 5🍏
 - Let's Open our Command line and see if our apple was added to the Fruits datatbase.(Option 1)
 ![commandline](https://user-images.githubusercontent.com/61579772/84004229-d06d3900-a99d-11ea-9e46-3ee4ba709161.jpg)
 
@@ -96,7 +98,7 @@ apple.save().then(() => console.log('New Fruit added'));;
 ![Fruits find](https://user-images.githubusercontent.com/61579772/84004234-d2cf9300-a99d-11ea-8ea5-2ae0ed296861.jpg)
 
 
-## Step 6
+## Step 6🍌🍍🍇🍓
 Now we have our apple which is saved as a doccument in our Databse.
 - You: What happened to the passion fruit🤔... 
 - Me: I'm no passion hater,So let me show you a better trick instead😏
@@ -180,7 +182,7 @@ I hope at the end of this you were able to set up your local environment and set
 - Perform basic CRUD operations
 - Start Living Healthy and eat fruits. 😋
 
-### References
+### References❤
 - 1.https://docs.mongodb.com/manual/reference/mongo-shell/#mongo-shell-command-history
 - 2.https://stackoverflow.com/questions/4883045/mongodb-difference-between-running-mongo-and-mongod-databases
 - 3.https://mongoosejs.com/
