@@ -26,13 +26,12 @@ The MongoDB Node.js Driver allows you to easily interact with MongoDB databases 
 The documentation is really great refrence source and guide if you choose this option.
 -https://docs.atlas.mongodb.com/getting-started/
 
-## or 
-
+## Alternative
 ### Download Robo 3T
 is a GUI and IDE for developers and data engineers who work with MongoDB. Data management features such as in-place editing and easy database connections(In this case I used Robo 3T for convinience and simplicity)
 
 ## Step 2 
--Now we are all set up,btwo more things to do to initialize our project.
+-Now we are all set up.Two more things to do to initialize our project.
 1) Pop up your command line interface.
 - > Mongod -This command is simply to start  your database
 - > Mongo- This command provides a powerful interface for system administrators.
