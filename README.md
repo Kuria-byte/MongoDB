@@ -94,6 +94,8 @@ apple.save().then(() => console.log('New Fruit added'));;
 
 - Easier way to do all those shell commands is by using Robo3T (Option 2)
 
+![Fruits find](https://user-images.githubusercontent.com/61579772/84004234-d2cf9300-a99d-11ea-8ea5-2ae0ed296861.jpg)
+
 
 ## Step 6
 Now we have our apple which is saved as a doccument in our Databse.
