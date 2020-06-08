@@ -34,8 +34,8 @@ is a GUI and IDE for developers and data engineers who work with MongoDB. Data m
 ## Step 2 
 -Now we are all set up,btwo more things to do to initialize our project.
 1) Pop up your command line interface.
-> Mongod -This command is simply to start  your database
-> Mongo- This command provides a powerful interface for system administrators.
+- > Mongod -This command is simply to start  your database
+- > Mongo- This command provides a powerful interface for system administrators.
 
 ## Step 3
 Using your code editor (Visual studio is a great recommendationn).
@@ -90,8 +90,10 @@ apple.save().then(() => console.log('New Fruit added'));;
 ```
 ## Step 5
 - Let's Open our Command line and see if our apple was added to the Fruits datatbase.(Option 1)
+![commandline](https://user-images.githubusercontent.com/61579772/84004229-d06d3900-a99d-11ea-9e46-3ee4ba709161.jpg)
 
 - Easier way to do all those shell commands is by using Robo3T (Option 2)
+
 
 ## Step 6
 Now we have our apple which is saved as a doccument in our Databse.
