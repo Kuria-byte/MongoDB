@@ -1,4 +1,4 @@
-# MongoDB & Mongoose
+# MongoDB & NodeJs
 A Beginer guide for using MongoDB and NodeJs
 - At the end of this you should be able to setup a MongoDb databse and perform basic CRUD operations using Node.JS,and a couple of tricks up yoour sleeve too.
 
